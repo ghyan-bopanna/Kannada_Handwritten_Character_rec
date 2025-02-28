@@ -1,0 +1,1 @@
+# Kannada_Handwritten_Character_rec
