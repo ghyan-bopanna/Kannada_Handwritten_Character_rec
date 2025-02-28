@@ -12,6 +12,10 @@ The project involves the following key steps:
 
 ## Files and Their Purpose
 
+### Dataset
+- This dataset was created by members of this group project.
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/ghyanbopanna/kannada-characters-dataset-493-classes)
+
 ### Script
 - **`DeepRes_fif.m`**: Script for training and testing the Resnet50 network.
 
